@@ -1,0 +1,8 @@
+com.gocity.demo
+com.gocity.demo.controller
+com.gocity.demo.entity
+com.gocity.demo.model
+com.gocity.demo.repository
+com.gocity.demo.service
+com.gocity.demo.service.exception
+com.gocity.demo.util
